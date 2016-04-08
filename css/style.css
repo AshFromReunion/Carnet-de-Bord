@@ -1,0 +1,70 @@
+html body {
+    background-color: #fafafa;
+    font-family: 'Roboto', sans-serif;
+}
+
+th {
+    color: black;
+}
+
+tr {
+    color: white;
+}
+
+.container .vert {
+    background-color: #18bc9c;
+}
+
+.container .rouge {
+    background-color: #e74c3c;
+}
+
+.container .bleu {
+    background-color: #3498db;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.tableaux {
+    background-color: white;
+    padding: 20px;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+
+body .jumbotron {
+    background-color: #3949AB;
+    color: white;
+}
+
+section {
+    margin: 100px 0;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #283593;
+}
+
+.social {
+    background-color: #283593;
+    color: white;
+    padding: 20px 0;
+}
+
+.container .fa {
+    font-size: 30px;
+    color: white;
+    margin: 10px;
+}
+
+.copyright {
+    background-color: #1A237E;
+    padding: 10px 0;
+    color: white;
+}
