@@ -1,6 +1,5 @@
 html body {
     background-color: #fafafa;
-    font-family: 'Roboto', sans-serif;
 }
 
 body .jumbotron {
@@ -44,8 +43,6 @@ tr {
 }
 
 .footer {
-    position: absolute;
-    bottom: 0;
     width: 100%;
     text-align: center;
     background-color: #283593;
